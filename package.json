@@ -11,5 +11,18 @@
   "dependencies": {
     "ejs": "^2.5.7",
     "express": "^4.16.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AminuSufi585/docker-node-example.git"
+  },
+  "keywords": [
+    "Node",
+    "Docker"
+  ],
+  "bugs": {
+    "url": "https://github.com/AminuSufi585/docker-node-example/issues"
+  },
+  "homepage": "https://github.com/AminuSufi585/docker-node-example#readme"
 }

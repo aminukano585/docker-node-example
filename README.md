@@ -18,7 +18,7 @@ After you've built the image, you can run it as follows:
 $ docker run -d -p 8888:5000 aminukano/node-example
 ```
 
-The website should now be accessible at [http://localhost:5000/][2].
+The website should now be accessible at [http://localhost:8888/][2].
 
 ## License
 
@@ -26,4 +26,4 @@ This code was released under the MIT License, Copyright (c) 2018 Aminu Kano
 fb.com/ameenukano585.
 
 [1]: https://github.com/AminuSufi585/docker-node-example
-[2]: http://localhost:5000
+[2]: http://localhost:8888
