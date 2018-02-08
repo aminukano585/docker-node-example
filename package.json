@@ -1,0 +1,15 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "A containerized node app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Aminu Kano",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}

@@ -1,0 +1,17 @@
+body {
+    background: green;
+}
+
+.container {
+    text-align: center;
+}
+
+.btn {
+    display: block;
+    margin: 20px auto;
+    text-decoration: none;
+    max-width: 10%;
+    background: white;
+    color: black;
+    border-radius: 5px;
+}
