@@ -9,7 +9,7 @@ RUN apk add --update nodejs nodejs-npm
 
 # Install node modules needed by the node app
 COPY package*.json ./
-RUN npm Install
+RUN npm install
 
 # Copy files required for the app to run
 COPY . .
